@@ -1,6 +1,7 @@
 ---
 title: "About me"
 date: "16 may 2023"
+slug: about
 ---
 
 Hello, I'm Matthijs Liethof, a self-taught programmer who has delved into various programming languages throughout my journey. Although I didn't follow a traditional educational path in programming, my passion and dedication led me to explore different realms of software development. I lean towards typed languages and have a strong inclination towards devops, with hands-on experience in Azure and Kubernetes.
