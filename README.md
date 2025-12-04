@@ -6,12 +6,6 @@ This repository contains the source code for Matthijs Liethof's personal profile
 
 This site serves as a digital profile and blog for Matthijs Liethof, a self-taught programmer focused on .NET development, devops, and elastic leadership. Matthijs is an organizer at [Nimma.codes](https://nimma.codes) and is passionate about leveraging software to create meaningful impact, building exceptional teams, and sharing insights with the developer community.
 
-## Features
-- Personal profile and about page
-- Blog posts and articles
-- Modern, responsive design using the Congo Hugo theme
-- Configurable site parameters and theme options
-
 ## Getting Started
 
 ### Prerequisites
@@ -45,9 +39,6 @@ hugo mod get -u
 ## Contributing
 This repository is primarily for personal use, but suggestions and improvements are welcome. Feel free to open an issue or submit a pull request.
 
-## License
-This project is open source and available under the MIT License.
-
 ---
 
-For more information, visit [matthijs.tech](https://www.matthijs.tech/) or connect via [Nimma.codes](https://nimma.codes).
+For more information, visit [matthijs.tech](https://www.matthijs.tech/).
